@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bc68db066ccb47828d27331db8eed3e6)](https://www.codacy.com/app/jacek-spolnik/JAlgoArena-Auth?utm_source=github.com&utm_medium=referral&utm_content=spolnik/JAlgoArena-Auth&utm_campaign=badger)
 # JAlgoArena Auth [![Build Status](https://travis-ci.org/spolnik/JAlgoArena-Auth.svg?branch=master)](https://travis-ci.org/spolnik/JAlgoArena-Auth) [![codecov](https://codecov.io/gh/spolnik/JAlgoArena-Auth/branch/master/graph/badge.svg)](https://codecov.io/gh/spolnik/JAlgoArena-Auth) [![GitHub release](https://img.shields.io/github/release/spolnik/jalgoarena-auth.svg)]()
 
 JAlgoArena Auth is core service dedicated for authentication and authorization of the JAlgoArena users. It's keeping all data in Xodus DB, and for authorization it's using JWT tokens which are verified on the requests. Initial creation of accounts happens through AJAX requests.
